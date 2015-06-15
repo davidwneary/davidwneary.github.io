@@ -1,0 +1,6 @@
+h1 {
+	color:black;
+	background-image: url("https://dorindaduclos.files.wordpress.com/2014/10/central-park-new-york-autumn-900x1600.jpg");
+	-webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
